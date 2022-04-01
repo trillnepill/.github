@@ -1,4 +1,4 @@
-### Hello Traveler 🌌
+### Hello
 
 My name is <b>Nikita</b>. I am a lazy front-end developer.
 I'm from Ukraine, I like to code static web pages. 
